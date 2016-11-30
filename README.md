@@ -8,6 +8,8 @@ This project is mainly aimed at fixing some bugs.
 
 If you want to add features contribute in the git project or sent an email to the author or git repository owner.
 
+# OpenSource Release under
+https://github.com/widhalmt/check_bareos 
 
 ## Check Examples: 
 
