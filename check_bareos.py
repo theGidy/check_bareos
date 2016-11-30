@@ -28,6 +28,7 @@ import sys
 import subprocess
 import MySQLdb 
 
+
 # Variables
 databaseName = 'bareos'
 # Used to differentiate between database specific queries
