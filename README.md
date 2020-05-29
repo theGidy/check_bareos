@@ -1,12 +1,10 @@
 # check_bareos
 Icinga Monitoring Plugin to check Bareos Backup Director databases
 
-Main Git Repository: https://github.com/widhalmt/check_bareos
-At the moment this is a fork repository to make it to a synchronized project with thise site.
+Origin Git Repository: https://github.com/widhalmt/check_bareos
+This is a fork repository to make it to a synchronized project with this exchange Icinga/Nagios. This project was mainly aimed to fixing some bugs to use it inside the German Aerospace Center (DLR) for a Bareos installation. 
 
-This project is mainly aimed at fixing some bugs.
-
-If you want to add features contribute in the git project or sent an email to the author or git repository owner.
+If you want to add features contribute in the git project or sent an email to the author or the git repository owner.
 
 # OpenSource Release under
 https://github.com/widhalmt/check_bareos 
